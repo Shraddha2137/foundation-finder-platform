@@ -1,0 +1,12 @@
+body { font-family: 'Segoe UI', sans-serif; margin: 0; padding: 0; background: #fff0f5; }
+header { background: #e91e63; color: #fff; padding: 15px; text-align: center; }
+nav a { color: #fff; margin: 0 10px; text-decoration: none; }
+.hero { text-align: center; padding: 40px; }
+.hero h2 { color: #e91e63; }
+button { background: #e91e63; color: #fff; border: none; padding: 10px 15px; cursor: pointer; }
+button:hover { background: #c2185b; }
+#results { display: flex; flex-wrap: wrap; justify-content: center; margin: 20px; }
+.foundation-card { border: 1px solid #ccc; margin: 10px; padding: 15px; width: 220px; background: #fff; border-radius: 8px; transition: transform 0.2s; }
+.foundation-card:hover { transform: scale(1.05); }
+.foundation-card img { width: 100%; border-radius: 5px; }
+.favorite-btn { background: #ff4081; color: #fff; border: none; padding: 5px; margin-top: 5px; cursor: pointer; }
